@@ -1,0 +1,27 @@
+.offcanvas__logo a img{
+    width: 100px;
+}
+.logo .header-logo-2 img{
+    width: 150px;
+}
+
+.logo .header-logo img{
+    width: 150px;
+  }
+  .single-footer-widget .widget-head img{
+    background-color: #fff;
+    width: 200px;
+  }
+  .client-items p{
+    color: #fff;
+  }
+.audience-wrapper .audience-right .counter-box-area{
+  flex-direction: column;
+  align-items: start !important;
+}
+.audience-wrapper .audience-right .counter-box-area .content{
+  margin-top: 20px !important;
+}
+.theme-btn{
+  margin-top: 100px;
+}
